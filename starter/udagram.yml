@@ -46,8 +46,7 @@ Resources:
             #!/bin/bash
             sudo apt-get update -y
             sudo apt-get install -y nginx
-            echo "<html><head><title>Udacity DevOps ND</title></head><body><h1>It works! Udagram, Udacity</h1></body></html>" > index.html | sudo tee /var/www/html/index.html            
-            sudo systemctl restart nginx
+            sudo echo "<html><head><title>Udacity DevOps ND</title></head><body><h1>It works! Udagram, Udacity</h1></body></html>" > /var/www/html/index.html
         ImageId: ami-0557a15b87f6559cf
         SecurityGroupIds:
           - !Ref WebServerSecGroup
