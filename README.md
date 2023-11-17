@@ -1,5 +1,6 @@
 ## Udagram AWS Infrastructure
 
+Fully designing and implementing an AWS infrasturcture template and stack using Cloudformation, EC2 instances, Custom VPC , Gateways, WebTemplate, IAM Roles, and S3 Storage buckets.
 This project involves designing and implementing an AWS infrastructure using CloudFormation. The infrastructure includes EC2 instances, a custom VPC, gateways, and S3 storage.
 ![Infrastructure Diagram](https://github.com/Chady00/AWS-Udagram-Infrastructure/assets/84717550/069ca322-58f2-49f7-ac62-3a83a2ccc879)
 
