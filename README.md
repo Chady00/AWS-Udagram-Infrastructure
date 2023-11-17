@@ -29,6 +29,10 @@ The CloudFormation template (udagram-infrastructure.yml) provided in the reposit
 
 ##### `... (Details in the code)`
 
+
+![image](https://github.com/Chady00/AWS-Udagram-Infrastructure/assets/84717550/7372a0a2-582b-4e8d-90c2-9be9fc936b15)
+
+
 ## `Auto Scaling Group`
 
 `WebAppGroup:`  
