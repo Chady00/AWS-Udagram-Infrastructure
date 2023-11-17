@@ -35,7 +35,6 @@ Resources:
           FromPort: 0
           ToPort: 65535
           CidrIp: 0.0.0.0/0
-
   WebAppLaunchTemplate:
     Type: AWS::EC2::LaunchTemplate
     Properties:
